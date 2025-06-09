@@ -29,8 +29,6 @@ Some of the checklists in this doc are for our scouts and some of them are for *
     - If no valid Highs or Mediums are found, the HM pool is $0 
   - QA awards: XXX XXX USDC (Notion: QA pool)
   - Judge awards: XXX XXX USDC (Notion: Judge Fee)
-  - Scout awards: $500 USDC (Notion: Scout fee - but usually $500 USDC)
-  - (this line can be removed if there is no mitigation) Mitigation Review: XXX XXX USDC
 - [Read our guidelines for more details](https://docs.code4rena.com/competitions)
 - Starts XXX XXX XX 20:00 UTC (ex. `Starts March 22, 2023 20:00 UTC`)
 - Ends XXX XXX XX 20:00 UTC (ex. `Ends March 30, 2023 20:00 UTC`)
