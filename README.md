@@ -196,6 +196,10 @@ make coverage
 
 ✅ SCOUTS: Add a screenshot of your terminal showing the test coverage - [⭐️ BYTES TODO]
 
+## Sample PoC
+
+[⭐️ BYTES TODO]
+
 ## Miscellaneous
 Employees of Meteora and employees' family members are ineligible to participate in this audit.
 
