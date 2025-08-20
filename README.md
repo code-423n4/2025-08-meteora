@@ -150,11 +150,19 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 
 ## Areas of concern (where to focus for bugs)
 
-[🔴 CLOUD TODO once customer replies]
+Main areas to focus on:
+- Funds are safe (reserve fund, fees of partner/creator/protocol, surplus amount, amount left)
+- Identify any blockers for the migration process (i.e. after the bonding curve reaches the migration quote threshold, it should be migrated)
 
 ## Main invariants
 
-[🔴 CLOUD TODO once customer replies]
+Main contract: 
+- https://github.com/MeteoraAg/dynamic-bonding-curve
+
+Third-party contracts:
+- Damm v2: https://github.com/MeteoraAg/damm-v2
+- Locker: https://github.com/jup-ag/jup-lock
+- Damm v1/Dynamic vault: Closed source (https://docs.meteora.ag/overview/products/damm-v1/what-is-damm-v1)
 
 ## All trusted roles in the protocol
 
