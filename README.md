@@ -26,15 +26,11 @@
 
 ## Automated Findings / Publicly Known Issues
 
-[⭐️ BYTES - can you run 4naly3er, or should we omit?]
-
-The 4naly3er report can be found [here](https://github.com/code-423n4/YYYY-MM-contest-candidate/blob/main/4naly3er-report.md).
-
 _Note for C4 wardens: Anything included in this `Automated Findings / Publicly Known Issues` section is considered a publicly known issue and is ineligible for awards._
 
 ## Links
 
-- **Previous audits:** [⭐️ BYTES TODO]
+- **Previous audits:** : https://docs.meteora.ag/resources/audits/dlmm
 - **Documentation:** 
   - [Overview of Meteora's Tech Stack](https://docs.meteora.ag/overview/home)
   - [Developer Documentation](https://docs.meteora.ag/developer-guide/home)
@@ -151,16 +147,6 @@ Third-party contracts:
 - Locker: https://github.com/jup-ag/jup-lock
 - Damm v1/Dynamic vault: Closed source (https://docs.meteora.ag/overview/products/damm-v1/what-is-damm-v1)
 
-## All trusted roles in the protocol
-
-[⭐️ BYTES TODO - see table template below]
-
-| Role                                | Description                       |
-| --------------------------------------- | ---------------------------- |
-| Owner                          | Has superpowers                |
-| Administrator                             | Can change fees                       |
-
-
 ## Running tests
 
 [⭐️ BYTES TODO]
@@ -180,8 +166,6 @@ To run code coverage
 ```bash
 make coverage
 ```
-
-✅ SCOUTS: Add a screenshot of your terminal showing the test coverage - [⭐️ BYTES TODO]
 
 ## Sample PoC
 
