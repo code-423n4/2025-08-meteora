@@ -30,7 +30,7 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 
 ## Links
 
-- **Previous audits:** : https://docs.meteora.ag/resources/audits/dlmm
+- **Previous audits:** : https://docs.meteora.ag/resources/audits/dbc
 - **Documentation:** 
   - [Overview of Meteora's Tech Stack](https://docs.meteora.ag/overview/home)
   - [Developer Documentation](https://docs.meteora.ag/developer-guide/home)
