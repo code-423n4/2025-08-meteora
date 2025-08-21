@@ -1,7 +1,7 @@
 # Meteora - Dynamic Bonding Curve audit details
 
 **Award pool details**
-- Total Prize Pool: 104,500 in USDC
+- Total Prize Pool: $104,500 in USDC
   - HM awards: up to $96,000 in USDC
     - If no valid Highs are found, the HM pool is $19,200 in USDC
     - If no valid Highs or Mediums are found, the HM pool is $0
