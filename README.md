@@ -155,7 +155,9 @@ pnpm test
 
 ## Sample PoC
 
-[⭐️ BYTES TODO]
+Utilize the existing test suite here as your base for POC's:
+- https://github.com/MeteoraAg/dynamic-bonding-curve/tree/30dd2a1fc5c90949e2038f61c19dc03fee513d98/tests
+- https://github.com/MeteoraAg/dynamic-bonding-curve/tree/30dd2a1fc5c90949e2038f61c19dc03fee513d98/programs/dynamic-bonding-curve/src/tests
 
 ## Miscellaneous
 Employees of Meteora and employees' family members are ineligible to participate in this audit.
