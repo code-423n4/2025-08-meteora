@@ -41,9 +41,7 @@ _Note for C4 wardens: Anything included in this `Automated Findings / Publicly K
 
 # Scope
 
-Looking at the file paths, I can format them to show the most relevant parts while keeping them readable. Here's a cleaner format:
-
-### Files in Scope: (81 files)
+## Files in Scope: (81 files)
 
 - [`base_fee/fee_rate_limiter.rs`](https://github.com/MeteoraAg/dynamic-bonding-curve/blob/30dd2a1fc5c90949e2038f61c19dc03fee513d98/programs/dynamic-bonding-curve/src/base_fee/fee_rate_limiter.rs)
 - [`base_fee/fee_scheduler.rs`](https://github.com/MeteoraAg/dynamic-bonding-curve/blob/30dd2a1fc5c90949e2038f61c19dc03fee513d98/programs/dynamic-bonding-curve/src/base_fee/fee_scheduler.rs)
@@ -116,7 +114,7 @@ Looking at the file paths, I can format them to show the most relevant parts whi
 - [`utils/mod.rs`](https://github.com/MeteoraAg/dynamic-bonding-curve/blob/30dd2a1fc5c90949e2038f61c19dc03fee513d98/programs/dynamic-bonding-curve/src/utils/mod.rs)
 - [`utils/token.rs`](https://github.com/MeteoraAg/dynamic-bonding-curve/blob/30dd2a1fc5c90949e2038f61c19dc03fee513d98/programs/dynamic-bonding-curve/src/utils/token.rs)
 
-### Files out of Scope: (10 files)
+## Files out of Scope: (10 files)
 
 - [`lib.rs`](https://github.com/MeteoraAg/dynamic-bonding-curve/blob/30dd2a1fc5c90949e2038f61c19dc03fee513d98/programs/dynamic-bonding-curve/src/lib.rs)
 - [`quote_exact_in.rs`](https://github.com/MeteoraAg/dynamic-bonding-curve/blob/30dd2a1fc5c90949e2038f61c19dc03fee513d98/dynamic-bonding-curve-sdk/src/quote_exact_in.rs)
