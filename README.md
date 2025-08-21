@@ -150,23 +150,8 @@ Third-party contracts:
 
 ## Running tests
 
-[⭐️ BYTES TODO]
-
-✅ SCOUTS: Please format the response above 👆 using the template below👇
-
-```bash
-git clone https://github.com/code-423n4/2023-08-arbitrum
-git submodule update --init --recursive
-cd governance
-foundryup
-make install
-make build
-make sc-election-test
-```
-To run code coverage
-```bash
-make coverage
-```
+pnpm install
+pnpm test
 
 ## Sample PoC
 
