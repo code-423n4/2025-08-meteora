@@ -139,7 +139,7 @@ Main areas to focus on:
 ## Main invariants
 
 Main contract: 
-- https://github.com/MeteoraAg/dynamic-bonding-curve
+- https://github.com/MeteoraAg/dynamic-bonding-curve/tree/30dd2a1fc5c90949e2038f61c19dc03fee513d98
 
 Third-party contracts:
 - Damm v2: https://github.com/MeteoraAg/damm-v2
