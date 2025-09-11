@@ -28,7 +28,7 @@
 
 _Note for C4 wardens: Anything included in this `Automated Findings / Publicly Known Issues` section is considered a publicly known issue and is ineligible for awards._
 
-- **Swap rate limiter bypass vulnerability via swap2 instruction:** It is possible to bypass the `feeRateLimiter` mode, in particular the swap rate limiter (an anti-sniping feature - which prevents snipers from bundling multiple swap instructions in one transaction) by using the `swap2` instruction handler. The vulnerability arises from the lack of a `swap2` discriminator check in the function `validate_single_swap_instruction()`. (C4 staff note: this issue was addressed by a public [PR](https://github.com/MeteoraAg/dynamic-bonding-curve/pull/128) on September 5, 2025; therefore all submissions of this finding on or after that date will be considered out of scope.)
+- **Swap rate limiter bypass vulnerability via swap2 instruction:** It is possible to bypass the `feeRateLimiter` mode, in particular the swap rate limiter (an anti-sniping feature - which prevents snipers from bundling multiple swap instructions in one transaction) by using the `swap2` instruction handler. The vulnerability arises from the lack of a `swap2` discriminator check in the function `validate_single_swap_instruction()`. (C4 staff note: this issue was addressed by a public [PR](https://github.com/MeteoraAg/dynamic-bonding-curve/pull/128) on September 5, 2025 at 4:36AM UTC; therefore all submissions of this finding on or after that date will be considered out of scope.)
 
 ## Links
 
