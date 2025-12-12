@@ -1,0 +1,128 @@
+==============================================================
+Guild: Code4rena
+Channel: ARCHIVE-PUBLIC / meteora-aug
+==============================================================
+
+[08/21/2025 22:48] itsmetechjay (pinned)
+👋 Hello and welcome to the $104,500 in USDC **Meteora - Dynamic Bonding Curve** audit channel!
+
+📆 Audit opens Friday, 22 August 2025 (20:00 UTC) and runs through Friday, 12 September 2025 (20:00 UTC) (21 days).
+
+❗ **Important notes:**
+1. A coded, runnable PoC is **required** for all High/Medium submissions to this audit. 
+    - Exception: PoC is optional (though recommended) for wardens with signal ≥ 0.68
+    - The audit repo includes a basic template to run the test suite.
+    - Your submission will be marked as Insufficient if the POC is not runnable and working.
+2. This audit includes **deployed code,** and Code4rena's [live code rules](https://docs.code4rena.com/competitions/live-code-rules) therefore apply. 
+3. The Meteora team is not available for questions, so the Q&A option has been disabled for this competition.
+
+We'll be posting relevant links, documentation, etc. here, so if you intend to participate in this audit, consider enabling notifications for this channel. 🐺 ⏰
+
+Join the audit: https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve
+
+{Reactions}
+❤️ (5) 
+
+[08/21/2025 22:49] itsmetechjay
+Pinned a message.
+
+
+[08/22/2025 20:00] itsmetechjay
+🔎 **Got audit-related questions? Here's your roadmap** 
+
+**The Meteora team will not be available for questions **
+
+Please use the two resources below to find the information you need:
+
+1. **Review project documentation** in the audit repo. [Join the audit](https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve) for access.
+2. Use **🤖 Docs Wolf,** C4's documentation bot assistant. Open a private thread, tag `@Docs Wolf`, and ask your question. The bot will make its best attempt to answer based on the codebase and documentation, and link you to relevant resources.  
+
+ℹ️ *Docs Wolf will be available within 24-48 hours of launch. We'll post a note once it's live.*
+
+Good hunting!
+
+
+[08/23/2025 22:30] cloudellie
+@🐺Wardens please note that one file was accidentally listed in both the "in scope" and "out of scope" lists; this has now [been corrected](https://github.com/code-423n4/2025-08-meteora/commit/e340e3ab50457398dedbb1b01cb973792aad99d9) and the OOS list has been updated for greater clarity.
+
+{Embed}
+https://github.com/code-423n4/2025-08-meteora/commit/e340e3ab50457398dedbb1b01cb973792aad99d9
+clarify OOS list · code-423n4/2025-08-meteora@e340e3a
+Code4rena - ARCHIVE-PUBLIC - meteora-aug [1407797526983213288].txt_Files/e340e3ab50457398dedbb1b01cb973792aad99d9-E530A
+
+{Reactions}
+JES_Pray (6) 👍🏻 (4) 
+
+[08/23/2025 22:33] cloudellie
+:c4update: Also: 🐺 Docs Wolf is now available!
+
+{Reactions}
+hi5 (3) 
+
+[09/11/2025 11:01] cloudellie
+@🐺Wardens We've been made aware that a public PR leaked a vulnerability on September 5, 2025 at 04:36AM UTC, so the issue has been added to the [Publicly known issues](https://github.com/code-423n4/2025-08-meteora?tab=readme-ov-file#publicly-known-issues) section of the audit repo README file. Any submissions of this finding that were submitted after that point will be considered out of scope.
+
+{Reactions}
+👍 (12) ✅ (2) 
+
+[09/12/2025 20:02] C4
+**🚨 AUDIT ALERT**
+
+@🐺Wardens The **Meteora - Dynamic Bonding Curve** audit is now closed! Huge thanks to everyone who participated 🔍, whether you submitted a finding or not.
+
+What's next: The sponsor team and judge will review the findings over the next couple of weeks. Progress through the judging, awarding, and reporting phases can be tracked via [the audit page](https://code4rena.com/audits/2025-08-meteora-dynamic-bonding-curve).
+
+{Reactions}
+✅ (13) ❤️ (8) 
+
+[09/19/2025 14:35] cloudellie
+:c4update: Wardens, as the sponsor has requested more time to confirm that no findings affect live code, we are invoking the [live code rules](https://docs.code4rena.com/competitions/live-code-rules) and there will be no post-judging QA phase. C4's judge management staff have reviewed the judging carefully, and we will be announcing awards very soon. 
+
+Once the sponsor confirms that there are no sensitive findings, all submissions will be made public and the report will be published, as usual.
+
+{Embed}
+https://docs.code4rena.com/competitions/live-code-rules
+Live code rules | Code4rena
+
+{Reactions}
+❤️ 
+
+[09/19/2025 16:41] cloudellie
+🤑 🎉  Awards for **Meteora - Dynamic Bonding Curve**:
+
+- $5,300.87 USDC » @faculty1
+- $5,300.87 USDC » @Matte
+- $4,299.13 USDC » @MaxZuvex
+- $4,299.13 USDC » @0×Sid02
+- $1,894.74 USDC » @Almanax
+- $1,263.16 USDC » @0xOzovehe
+- $842.11 USDC » @Rare_one
+
+🏁 Findings summary
+--------------------------------------—
+0 High risk findings
+2 Med risk findings
+724 wardens participated
+
+Top Hunters (4-way tie): @faculty1, @Matte, @MaxZuvex, @0×Sid02
+Top Gatherer (4-way tie): @faculty1, @Matte, @MaxZuvex, @0×Sid02
+Top QA report: @Almanax 
+
+Awards will be distributed on Ethereum within the next week. Congratulations all!  💸 💸 💸
+
+*Note: If you participated in this audit and don’t see your name on this list, please wait until the report is published and the findings are made public to check on your submissions.*
+
+{Reactions}
+🔥 (7) ❤️ (4) 🚀 (2) 🫡 (2) 
+
+[12/03/2025 21:00] C4
+ℹ️ This channel is pending archive.   As a result, any private threads will be permanently deleted 12/12/2025 15:00. Please make sure to grab anything you might need before then.
+
+
+[12/11/2025 16:18] C4
+ℹ️ Reminder: this channel will be deleted after 24 hours.
+
+
+==============================================================
+Exported 11 message(s)
+==============================================================
